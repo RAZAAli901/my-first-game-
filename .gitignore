@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+*.dll
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# Build scripts
+# (Optional: keep build.ps1 if you want to track it, otherwise uncomment below)
+# build.ps1
