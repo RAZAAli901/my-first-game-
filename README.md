@@ -8,6 +8,8 @@ A simple 2D game built with C++ and SDL2 where a player collects coins.
     *   Windows with MSYS2 installed.
     *   MinGW-w64 GCC and SDL2 libraries.
 
+
+
 2.  **Build and Run**:
     *   Open a terminal in this directory.
     *   Run the build script:
