@@ -4,8 +4,6 @@ A simple 2D game built with C++ and SDL2 where a player collects coins.
 
 ## How to Run
 
-
-
 1.  **Prerequisites**:
     *   Windows with MSYS2 installed.
     *   MinGW-w64 GCC and SDL2 libraries.
